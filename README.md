@@ -20,15 +20,12 @@ I'm a Full Stack Software Engineer and a React.js, TypeScript, and GraphQL Enthu
 - Libraries:
 ![Chart.js](https://img.shields.io/badge/-Chart.js-ffffff?style=flat-square&logo=chart.js)
 [![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-%23FF4154?style=flat&logo=TanStack&logoColor=white)](https://tanstack.com/query/v4)
-
 ![Zustand](https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=zustand)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux)
-
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios)
 ![OAuth](https://img.shields.io/badge/-OAuth-3D9BE9?style=flat-square&logo=oauth)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens) 
-
 ![Spatie](https://img.shields.io/badge/-Spatie-orange?style=flat-square)
 
 
