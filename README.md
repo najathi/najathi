@@ -25,7 +25,7 @@ I'm a Full Stack Software Engineer and a React.js, TypeScript, and GraphQL Enthu
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=najathi&show_icons=true&theme=radical)
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([Your LinkedIn URL](https://twitter.com/mnajathi))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://twitter.com/mnajathi)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/mnajathi)
 
 <!-- This is a comment: Feel free to add or remove sections according to your needs -->
