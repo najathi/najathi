@@ -6,7 +6,7 @@ I'm a Full Stack Software Engineer and a React.js, TypeScript, and GraphQL Enthu
 - 🔭 I’m currently working on building scalable web applications using React.js and GraphQL.
 - 🌱 I’m currently learning advanced GraphQL schemas and TypeScript best practices.
 - 👯 I’m looking to collaborate on open source projects and innovative web app ideas.
-- 💬 Ask me about full-stack development, React.js, TypeScript, and GraphQL.
+- 💬 Ask me about full-stack development Node.js React.js, TypeScript, Laravel and GraphQL.
 - 📫 How to reach me: najathi777@gmail.com
 - ⚡ Fun fact: I love to attend tech meetups and hackathons.
 
