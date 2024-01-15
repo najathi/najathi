@@ -27,7 +27,10 @@ I'm a Full Stack Software Engineer and a React.js, TypeScript, and GraphQL Enthu
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=najathi&show_icons=true&theme=radical)
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://twitter.com/mnajathi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://twitter.com/mnajathi](https://www.linkedin.com/in/najathi/))
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/mnajathi)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/MohamedNajathi)
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9181204/najathi)
+[![Website](https://img.shields.io/badge/-Website-0A0A0A?style=flat-square&logo=About.me&logoColor=white)](https://najathi.blogspot.com)
 
 <!-- This is a comment: Feel free to add or remove sections according to your needs -->
