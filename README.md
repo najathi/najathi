@@ -11,7 +11,7 @@ I'm a Full Stack Software Engineer and a React.js, TypeScript, and GraphQL Enthu
 - ⚡ Fun fact: I love to attend tech meetups and hackathons.
 
 ## 🛠 Skills
-- Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php)
+- Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![PHP](https://img.shields.io/badge/-PHP-ffffff?style=flat-square&logo=php)
 - Frontend: ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 - Backend: ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql) ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-square&logo=laravel)
 - Cloud Platforms: ![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazon-aws) ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud-blue?style=flat-square&logo=google-cloud) ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean) ![Vultr](https://img.shields.io/badge/-Vultr-blue?style=flat-square&logo=vultr)
