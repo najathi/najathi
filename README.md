@@ -24,6 +24,24 @@
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens) 
 ![Spatie](https://img.shields.io/badge/-Spatie-orange?style=flat-square)
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="path_to_your_javascript_icon" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="path_to_your_typescript_icon" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="path_to_your_php_icon" width="36" height="36" alt="PHP" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="path_to_your_react_icon" width="36" height="36" alt="React" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="path_to_your_redux_icon" width="36" height="36" alt="Redux" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="path_to_your_angular_icon" width="36" height="36" alt="Angular" /></a>
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="path_to_your_nodejs_icon" width="36" height="36" alt="Node.js" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="path_to_your_graphql_icon" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="path_to_your_laravel_icon" width="36" height="36" alt="Laravel" /></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="path_to_your_aws_icon" width="36" height="36" alt="AWS" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="path_to_your_google_cloud_icon" width="36" height="36" alt="Google Cloud Platform" /></a>
+<a href="https://www.digitalocean.com/" target="_blank" rel="noreferrer"><img src="path_to_your_digital_ocean_icon" width="36" height="36" alt="Digital Ocean" /></a>
+<a href="https://www.vultr.com/" target="_blank" rel="noreferrer"><img src="path_to_your_vultr_icon" width="36" height="36" alt="Vultr" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="path_to_your_mongodb_icon" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="path_to_your_mysql_icon" width="36" height="36" alt="MySQL" /></a>
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="path_to_your_mariadb_icon" width="36" height="36" alt="MariaDB" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="path_to_your_postgresql_icon" width="36" height="36" alt="PostgreSQL" /></a>
+
 ### 📈 GitHub Stats
 
 <p float="left">
