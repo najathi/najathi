@@ -6,7 +6,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9181204/najathi)
 [![Website](https://img.shields.io/badge/-Website-0A0A0A?style=flat-square&logo=About.me&logoColor=white)](https://najathi.blogspot.com)
 
-## 🛠 Skills
+### 🛠 Skills
 - Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![PHP](https://img.shields.io/badge/-PHP-ffffff?style=flat-square&logo=php)
 - Frontend: ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 - Backend: ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql) ![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat-square&logo=laravel)
@@ -24,11 +24,10 @@
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens) 
 ![Spatie](https://img.shields.io/badge/-Spatie-orange?style=flat-square)
 
-## 📈 GitHub Stats
+### 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=najathi&show_icons=true&theme=radical)
 
-## 🌐 Socials
+### Stackoverflow Stats :
 
-
-<!-- This is a comment: Feel free to add or remove sections according to your needs -->
+![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=9181204)
