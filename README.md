@@ -34,7 +34,6 @@
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" alt="aws" width="36" height="36"/></a>
 </p>
 
-- Libraries:
 ![Chart.js](https://img.shields.io/badge/-Chart.js-ffffff?style=flat-square&logo=chart.js)
 [![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-%23FF4154?style=flat&logo=TanStack&logoColor=white)](https://tanstack.com/query/v4)
 ![Zustand](https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=zustand)
