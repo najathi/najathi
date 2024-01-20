@@ -1,14 +1,10 @@
-# Hi there, I'm Najathi ! 👨‍💻
+### Hi there, I'm Najathi ! 👨‍💻
 
-## 🚀 About Me
-I'm a Full Stack Software Engineer and a React.js, TypeScript, and GraphQL Enthusiast. I enjoy building everything from small business sites to rich interactive web apps.
-
-- 🔭 I’m currently working on building scalable web applications using React.js and GraphQL.
-- 🌱 I’m currently learning advanced GraphQL schemas and TypeScript best practices.
-- 👯 I’m looking to collaborate on open source projects and innovative web app ideas.
-- 💬 Ask me about full-stack development Node.js React.js, TypeScript, Laravel and GraphQL.
-- 📫 How to reach me: najathi777@gmail.com
-- ⚡ Fun fact: I love to attend tech meetups and hackathons.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/najathi)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/mnajathi)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/MohamedNajathi)
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9181204/najathi)
+[![Website](https://img.shields.io/badge/-Website-0A0A0A?style=flat-square&logo=About.me&logoColor=white)](https://najathi.blogspot.com)
 
 ## 🛠 Skills
 - Languages: ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![PHP](https://img.shields.io/badge/-PHP-ffffff?style=flat-square&logo=php)
@@ -28,16 +24,11 @@ I'm a Full Stack Software Engineer and a React.js, TypeScript, and GraphQL Enthu
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens) 
 ![Spatie](https://img.shields.io/badge/-Spatie-orange?style=flat-square)
 
-
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=najathi&show_icons=true&theme=radical)
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/najathi)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/mnajathi)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/MohamedNajathi)
-[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9181204/najathi)
-[![Website](https://img.shields.io/badge/-Website-0A0A0A?style=flat-square&logo=About.me&logoColor=white)](https://najathi.blogspot.com)
+
 
 <!-- This is a comment: Feel free to add or remove sections according to your needs -->
