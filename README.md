@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/mnajathi)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/MohamedNajathi)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9181204/najathi)
-[![Website](https://img.shields.io/badge/-Website-0A0A0A?style=flat-square&logo=About.me&logoColor=white)](https://najathi.blogspot.com)
+[![Blog](https://img.shields.io/badge/-Website-0A0A0A?style=flat-square&logo=About.me&logoColor=white)](https://najathi.blogspot.com)
 
 ### 🛠 Skills
 
