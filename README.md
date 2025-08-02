@@ -46,12 +46,6 @@
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens) 
 ![Spatie](https://img.shields.io/badge/-Spatie-orange?style=flat-square)
 
-### 📈 GitHub Stats
-
-<p float="left">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=najathi&show_icons=true&hide_border=false&layout=compact&langs_count=8"/>
-</p>
-
 ### Stackoverflow Stats :
 
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=9181204)
