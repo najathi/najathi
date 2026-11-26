@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Najathi&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20Cloud%20Architect&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Najathi&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20AI%20Integration%20Engineer&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
 <!-- Social Badges -->
 <p>
@@ -13,7 +13,7 @@
 </p>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%F0%9F%9A%80;Laravel+%7C+React+%7C+Next.js+%7C+TypeScript;AWS+%7C+Cloud+Architecture+%E2%98%81%EF%B8%8F;Building+scalable+systems+since+day+one" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%F0%9F%9A%80;Laravel+%7C+React+%7C+Next.js+%7C+TypeScript;Claude+%7C+MCP+%7C+AI+integrations;Building+scalable+systems+since+day+one" alt="Typing SVG"/>
 
 </div>
 
@@ -24,7 +24,10 @@
 > *Engineering scalable, cloud-native applications with a passion for clean architecture and elegant code.*
 
 - 🔭 Currently architecting a **multi-tenant franchise POS system** (Laravel + NestJS + Next.js)
-- ☁️ Deep expertise in **AWS Elastic Beanstalk**, Aurora MySQL, ElastiCache & CodePipeline
+- ☁️ Deploying Laravel and Next.js apps with Docker on **AWS** (Elastic Beanstalk, ECR, CodePipeline, S3, RDS) and Vercel
+- 🤖 Building **MCP servers** and AI features with Claude and OpenAI: tool calling, guardrails and evaluations
+- 📦 Public demos: [mcp-store-server](https://github.com/najathi/mcp-store-server), [ai-support-assistant](https://github.com/najathi/ai-support-assistant) and [saas-stripe-starter](https://github.com/najathi/saas-stripe-starter)
+- 💼 Available for freelance work on [Upwork](https://www.upwork.com/freelancers/~01586eb9f6917882eb)
 - 🌱 Exploring **offline-first** architectures with SQLite sync & real-time systems
 - ⚡ Passionate about **DevOps**, CI/CD pipelines, and production-grade deployments
 - 📍 Based in **Sri Lanka**
