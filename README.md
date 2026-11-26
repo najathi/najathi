@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Najathi&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%26%20AI%20Integration%20Engineer&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Najathi&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20and%20AI%20Integration%20Engineer&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
 <!-- Social Badges -->
 <p>
